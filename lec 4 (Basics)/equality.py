@@ -1,0 +1,7 @@
+print(10==20)
+print(10!=20)
+print(10==True)
+print(False==False)
+print(10=='delhi')
+print(10==20==30)
+print(10==10==10)

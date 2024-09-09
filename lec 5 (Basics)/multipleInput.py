@@ -1,0 +1,6 @@
+a,b = input("Enter two numbers: ").split()
+print(type(a))
+a = int(a)
+print(type(a))
+b = int(b)
+print("Multipliciation: ", a*b)
