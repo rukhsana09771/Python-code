@@ -1,0 +1,7 @@
+t = (40, 10, 30, 20)
+t1 = sorted(t)
+print(t1)
+print(t)
+t1 = sorted(t, reverse=True)
+print(t1)
+print(type(t1))

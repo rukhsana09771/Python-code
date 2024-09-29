@@ -1,0 +1,6 @@
+d = dict()
+print(d)
+d = dict({100:'Sama', 200:'Parveen', 300:'Rukhsana'})
+print(d)
+d = dict([(100, 'Sama'), (200, 'Parveen'), (300, 'Rukhsana')])
+print(d)
